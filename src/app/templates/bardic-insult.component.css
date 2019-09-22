@@ -1,0 +1,18 @@
+.center{
+	text-align: center;
+}
+
+.background{
+	 position: absolute;
+       top: 0px; /* Header Height */
+       bottom: 0px; /* Footer Height */
+       width: 100%;
+}
+
+.noDisplay{
+	display: none;
+}
+
+.hidden{
+	visibility: hidden;
+}
